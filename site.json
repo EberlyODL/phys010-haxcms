@@ -1,0 +1,69 @@
+{
+    "id": "3259c835-29a6-4f4b-a3ff-d35c194332b0",
+    "title": "phys010",
+    "author": "",
+    "description": "",
+    "license": "by-sa",
+    "metadata": {
+        "siteName": "phys010",
+        "domain": null,
+        "created": 1551727377,
+        "updated": 1551727377,
+        "theme": {
+            "element": "outline-player",
+            "path": "@lrnwebcomponents\/outline-player\/outline-player.js",
+            "name": "Outline player"
+        },
+        "image": "assets\/banner.jpg",
+        "hexCode": "#aeff00",
+        "cssVariable": "--simple-colors-default-theme-light-blue-7",
+        "publishing": {},
+        "dynamicElementLoader": {
+            "a11y-gif-player": "@lrnwebcomponents\/a11y-gif-player\/a11y-gif-player.js",
+            "citation-element": "@lrnwebcomponents\/citation-element\/citation-element.js",
+            "hero-banner": "@lrnwebcomponents\/hero-banner\/hero-banner.js",
+            "image-compare-slider": "@lrnwebcomponents\/image-compare-slider\/image-compare-slider.js",
+            "license-element": "@lrnwebcomponents\/license-element\/license-element.js",
+            "lrn-aside": "@lrnwebcomponents\/lrn-aside\/lrn-aside.js",
+            "lrn-calendar": "@lrnwebcomponents\/lrn-calendar\/lrn-calendar.js",
+            "lrn-math": "@lrnwebcomponents\/lrn-math\/lrn-math.js",
+            "lrn-table": "@lrnwebcomponents\/lrn-table\/lrn-table.js",
+            "lrn-vocab": "@lrnwebcomponents\/lrn-vocab\/lrn-vocab.js",
+            "lrndesign-blockquote": "@lrnwebcomponents\/lrndesign-blockquote\/lrndesign-blockquote.js",
+            "magazine-cover": "@lrnwebcomponents\/magazine-cover\/magazine-cover.js",
+            "media-behaviors": "@lrnwebcomponents\/media-behaviors\/media-behaviors.js",
+            "media-image": "@lrnwebcomponents\/media-image\/media-image.js",
+            "meme-maker": "@lrnwebcomponents\/meme-maker\/meme-maker.js",
+            "multiple-choice": "@lrnwebcomponents\/multiple-choice\/multiple-choice.js",
+            "paper-audio-player": "@lrnwebcomponents\/paper-audio-player\/paper-audio-player.js",
+            "person-testimonial": "@lrnwebcomponents\/person-testimonial\/person-testimonial.js",
+            "place-holder": "@lrnwebcomponents\/place-holder\/place-holder.js",
+            "q-r": "@lrnwebcomponents\/q-r\/q-r.js",
+            "full-width-image": "@lrnwebcomponents\/full-width-image\/full-width-image.js",
+            "self-check": "@lrnwebcomponents\/self-check\/self-check.js",
+            "simple-concept-network": "@lrnwebcomponents\/simple-concept-network\/simple-concept-network.js",
+            "stop-note": "@lrnwebcomponents\/stop-note\/stop-note.js",
+            "tab-list": "@lrnwebcomponents\/tab-list\/tab-list.js",
+            "task-list": "@lrnwebcomponents\/task-list\/task-list.js",
+            "video-player": "@lrnwebcomponents\/video-player\/video-player.js",
+            "wave-player": "@lrnwebcomponents\/wave-player\/wave-player.js",
+            "wikipedia-query": "@lrnwebcomponents\/wikipedia-query\/wikipedia-query.js"
+        }
+    },
+    "items": [
+        {
+            "id": "item-fce353b2-78bc-4698-ba9f-cd8104775194",
+            "indent": 0,
+            "location": "pages\/item-fce353b2-78bc-4698-ba9f-cd8104775194\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "New page",
+            "description": "",
+            "metadata": {
+                "created": 1551727377,
+                "updated": 1551727377
+            }
+        }
+    ],
+    "location": "\/_sites\/phys010\/index.html"
+}
