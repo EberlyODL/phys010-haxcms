@@ -63,7 +63,19 @@
                 "created": 1551727377,
                 "updated": 1551727377
             }
+        },
+        {
+            "id": "item-e9bce2bf-4829-45e2-b927-28b9671ec992",
+            "indent": 0,
+            "location": "pages\/week_1_atoms_and_particles-html\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "Welcome to Phys 010: Physics Behind the Headlines!",
+            "description": "",
+            "metadata": {
+                "created": 1551728291,
+                "updated": 1551728291
+            }
         }
-    ],
-    "location": "\/_sites\/phys010\/index.html"
+    ]
 }
