@@ -1,9 +1,9 @@
 {
-    "id": "3259c835-29a6-4f4b-a3ff-d35c194332b0",
-    "title": "phys010",
+    "title": "Phys 010",
     "author": "",
     "description": "",
     "license": "by-sa",
+    "location": "\/_sites\/phys010\/index.html",
     "metadata": {
         "siteName": "phys010",
         "domain": null,
@@ -52,30 +52,1012 @@
     },
     "items": [
         {
-            "id": "item-fce353b2-78bc-4698-ba9f-cd8104775194",
-            "indent": 0,
-            "location": "pages\/item-fce353b2-78bc-4698-ba9f-cd8104775194\/index.html",
-            "order": 0,
+            "id": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "location": "pages/lessons.html",
+            "title": "Lessons",
             "parent": null,
-            "title": "New page",
-            "description": "",
-            "metadata": {
-                "created": 1551727377,
-                "updated": 1551727377
-            }
+            "order": 0
         },
         {
-            "id": "item-e9bce2bf-4829-45e2-b927-28b9671ec992",
-            "indent": 0,
-            "location": "pages\/week_1_atoms_and_particles-html\/index.html",
-            "order": 0,
-            "parent": null,
+            "id": "tRVyEMwwI53hLD5TvCYtUudNail85rg0",
+            "location": "pages/week_1_atoms_and_particles.html",
             "title": "Week 1: Atoms and Particles",
-            "description": "Welcome to Phys 010: Physics Behind the Headlines!In the weekly lessons, you will often see many discussions between Sophie and Marie. Sophie is a virtual student at Penn State and just like you s",
-            "metadata": {
-                "created": 1551728291,
-                "updated": 1551797863
-            }
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 0
+        },
+        {
+            "id": "IMJ5GV4n7LjvLV2GsgHxur0XxYwff92e",
+            "location": "pages/introduction_and_concept_map.html",
+            "title": "Introduction and Concept Map",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 1
+        },
+        {
+            "id": "XjlUh8lkPvW12jQzC1HvQqs2gfH3gvTf",
+            "location": "pages/instructor.html",
+            "title": "Instructor",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 2
+        },
+        {
+            "id": "eg3RsubMto43XHwIhGt1uWWuBjLDZkLF",
+            "location": "pages/the_brain_and_physics.html",
+            "title": "The Brain and Physics",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 3
+        },
+        {
+            "id": "1K5sh0vOarwwCxcDdpvNMK8FjxBRCOnC",
+            "location": "pages/plagiarism.html",
+            "title": "Plagiarism",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 4
+        },
+        {
+            "id": "6ckYQ2WhywudlMVjlVRhh3TwesUngeBp",
+            "location": "pages/numbers_and_units.html",
+            "title": "Large and Small numbers",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 5
+        },
+        {
+            "id": "qXJNpFhIW6rkWI6HHZ78J4PVNvBFa8ah",
+            "location": "pages/newsflash_1.html",
+            "title": "Newsflash 1",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 6
+        },
+        {
+            "id": "Z5Khut8JTo6h7WGyMVPLP3OL0bc0d60w",
+            "location": "pages/what_are_atoms.html",
+            "title": "What are Atoms?",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 7
+        },
+        {
+            "id": "tqBgkURddTCAgk5BckeOcX3dxfgshKY5",
+            "location": "pages/the_trio_of_matter_particles.html",
+            "title": "The Trio of Matter Particles",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 8
+        },
+        {
+            "id": "ktcsDoHZ40ttVZJaai5Sin1GGUJ0MCfx",
+            "location": "pages/building_atoms_in_the_lab.html",
+            "title": "Building Atoms in the Lab",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 9
+        },
+        {
+            "id": "RfrfuBxsefoXC7kVWJTLi8D8aAvVO3qJ",
+            "location": "pages/space-speed-and-momentum.html",
+            "title": "Space and graphs",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 10
+        },
+        {
+            "id": "D4mqxCUIvCjigIHIj0e3XEulmzNqpmIv",
+            "location": "pages/week_1_summary.html",
+            "title": "Week 1 Summary",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 11
+        },
+        {
+            "id": "MgT4n3GhN3ippH0MYn8GijXkK9JbNCm9",
+            "location": "pages/week_2_energy.html",
+            "title": "Week 2: Energy and Power",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 12
+        },
+        {
+            "id": "M7VxcRmUyfhsaRCCZGPB7jvXvIoHSRBO",
+            "location": "pages/calories_and_food.html",
+            "title": "Energy of Food",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 13
+        },
+        {
+            "id": "BnjB2OvhKQuqP1NmEEPQD5FQAJfaSuAJ",
+            "location": "pages/power_and_energy_in_your_daily_life.html",
+            "title": "Power and Energy in your daily life",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 14
+        },
+        {
+            "id": "puOPJ7xO7EF1Hac2pHPxiNaFyL7QsYLo",
+            "location": "pages/units.html",
+            "title": "Units",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 15
+        },
+        {
+            "id": "zxNaoPFJM8gGlelt76JZGdwDwth8hHMq",
+            "location": "pages/newflash_2.html",
+            "title": "Newsflash 2",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 16
+        },
+        {
+            "id": "oLk6B5rsM04HBUzmMpQVDcab4JQ5xsnq",
+            "location": "pages/various_forms_of_energy.html",
+            "title": "Various Forms of Energy",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 17
+        },
+        {
+            "id": "oHqLchzNtHBS2MXITkLRCVDTUUp9cWK8",
+            "location": "pages/the_four_states_of_matter.html",
+            "title": "The Four States of Matter",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 18
+        },
+        {
+            "id": "EciUYYntc8txFC6Mz8aEAC5pRcjZNWoc",
+            "location": "pages/heat_or_thermal_energy_.html",
+            "title": "Heat (or thermal energy)",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 19
+        },
+        {
+            "id": "tSuHRGtYwn3u9X2sLPw9q8ScjTN81US9",
+            "location": "pages/phase_transitions.html",
+            "title": "Phase Transitions",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 20
+        },
+        {
+            "id": "SSgvCRgqFgMGJnSnzI1LfgtsWiR7HrxN",
+            "location": "pages/conservation_of_energy.html",
+            "title": "The Conservation Principle",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 21
+        },
+        {
+            "id": "5C0Y25n7xsbwunsumSIIDRvB5hozIzYm",
+            "location": "pages/conservation-of-energy.html",
+            "title": "Conservation of Energy",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 22
+        },
+        {
+            "id": "HzVMiheD8Ippvgt06rQvQL1RsVkl5XG0",
+            "location": "pages/week_2_summary.html",
+            "title": "Week 2 Summary",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 23
+        },
+        {
+            "id": "ulNtrhdH21ItGmN0gZgGsB4YaAnD3uuE",
+            "location": "pages/week_3_momentum_and_waves.html",
+            "title": "Week 3: Momentum and Waves",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 24
+        },
+        {
+            "id": "YAmmn8CMokPIYIc5k3scXGzbRULEuwGw",
+            "location": "pages/momentum.html",
+            "title": "Momentum",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 25
+        },
+        {
+            "id": "NIip31jKnMGaTodzvSCFeo2ra4i2YGyM",
+            "location": "pages/recoil.html",
+            "title": "Recoil",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 26
+        },
+        {
+            "id": "nrwqzzIPw2biqB9euRaBZyG4tFmju55P",
+            "location": "pages/the_pendulum.html",
+            "title": "The Pendulum",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 27
+        },
+        {
+            "id": "Ra1OHoCePfyHiyeUYDLOKn55LMJOityc",
+            "location": "pages/waves.html",
+            "title": "Waves",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 28
+        },
+        {
+            "id": "wg9Zp4LQzqvdOhmbjOUnztzZoG13cX1K",
+            "location": "pages/creating_waves.html",
+            "title": "Creating Waves",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 29
+        },
+        {
+            "id": "j2eOk5AqlUnDzR3hmCKmHLyVS82RM1Yu",
+            "location": "pages/sound.html",
+            "title": "Sound",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 30
+        },
+        {
+            "id": "zEEC0gKes5hTV5mKHDjS9AMBUBAciVHf",
+            "location": "pages/newsflash_3.html",
+            "title": "Newsflash 3",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 31
+        },
+        {
+            "id": "a6m2cywZUMoIO72WYtcNB2TZPYcawcGb",
+            "location": "pages/week_3_summary.html",
+            "title": "Week 3 Summary",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 32
+        },
+        {
+            "id": "ARM2tbK3yKOjDjfZjCOX9StdN07iZbIr",
+            "location": "pages/week-4-interference.html",
+            "title": "Week 4: Interference",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 33
+        },
+        {
+            "id": "1kTUaCKlFoSSwUW1WSeDuvtcHNmRMFcZ",
+            "location": "pages/light-waves.html",
+            "title": "Light Waves",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 34
+        },
+        {
+            "id": "nSnkacLgd5Cm68gHIWfbBuPJK7JiXbrg",
+            "location": "pages/interlude_physics_as_an_experimental_science.html",
+            "title": "Interlude",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 35
+        },
+        {
+            "id": "A2oFkDd3OjPb37W4MnbgTWKuGiUfb9W5",
+            "location": "pages/waves_can_cancel_or_reinforce.html",
+            "title": "Wave can Cancel or Reinforce",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 36
+        },
+        {
+            "id": "LDyK7TMWvn2HU21d8hV4kfhPTX0jgvL3",
+            "location": "pages/the_double_slit_experiment.html",
+            "title": "The Double Slit Experiment",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 37
+        },
+        {
+            "id": "dWkiodW8XGMLE7WTRdD9Z5rx12pTbCgk",
+            "location": "pages/stationary_waves.html",
+            "title": "Stationary Waves",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 38
+        },
+        {
+            "id": "7FPnL3vg5UQq1yJAJcln5SyCKRRYJ0H1",
+            "location": "pages/week-4-summary.html",
+            "title": "Week 4 Summary",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 39
+        },
+        {
+            "id": "SH8Qhgtf92mqqhwgCC5YeE99d6CRoqaT",
+            "location": "pages/week_5_space_time.html",
+            "title": "Week 5: Space-time",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 40
+        },
+        {
+            "id": "bNTSzAnmCJ5UwbajZSiUyE4BLJ7CGBfQ",
+            "location": "pages/space_and_motion.html",
+            "title": "Space and Motion",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 41
+        },
+        {
+            "id": "1a9BuqagcVHODq5lYXGrO9vAY9boTquR",
+            "location": "pages/motion_is_relative.html",
+            "title": "Motion is Relative",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 42
+        },
+        {
+            "id": "uJzAouPg5NneD7rL62wLfp2VgUZMatsL",
+            "location": "pages/interlude_dealing_with_errors_systematic_vs_statistical.html",
+            "title": "Interlude: Dealing with Errors--Systematic vs. Statistical",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 43
+        },
+        {
+            "id": "4AEe9gINUTleDrk4I3J1Ouqme3ctYpXo",
+            "location": "pages/life_of_the_neutrino.html",
+            "title": "Life of the Neutrino",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 44
+        },
+        {
+            "id": "sXLS7FUTDST2qomLlXr3vtdEJPTSH6pc",
+            "location": "pages/newsflash_4.html",
+            "title": "Newsflash 4",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 45
+        },
+        {
+            "id": "uA4JXtI1s3JtWtHHC01DlX31TcAET8QX",
+            "location": "pages/good_old_relativity.html",
+            "title": "Good Old Relativity",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 46
+        },
+        {
+            "id": "IGVbdyrVMd2Qge2Z3lgPddbP7Qk1tk0W",
+            "location": "pages/special_relativity.html",
+            "title": "Special Relativity",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 47
+        },
+        {
+            "id": "urgTgDafsHCzZOB1g42PZV6w1bzSkGbY",
+            "location": "pages/time_dilation.html",
+            "title": "Time Dilation",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 48
+        },
+        {
+            "id": "943NNwm0V8ppVE45rkjLEYjcXJrmBVnp",
+            "location": "pages/energy_and_mass.html",
+            "title": "Energy and Mass",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 49
+        },
+        {
+            "id": "iu6oYRAle5Q01FPi5YSD9QIpybUn2aH4",
+            "location": "pages/week_5_summary.html",
+            "title": "Week 5 Summary",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 50
+        },
+        {
+            "id": "rbdUDkrTkL1gOptS1JDtOaObI6GKgo2j",
+            "location": "pages/week_6_review_and_the_notion_of_force.html",
+            "title": "Week 6: Forces",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 51
+        },
+        {
+            "id": "1Ret4ZSwN89zFtiVkVzdg2Cn67rGtEXF",
+            "location": "pages/the_basic_concept_of_force.html",
+            "title": "The Basic Concept of Force",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 52
+        },
+        {
+            "id": "9kVrumplID1yX2gFYVHvHpz1dSFv3eJP",
+            "location": "pages/newton_s_laws_of_motion.html",
+            "title": "Newton's Laws of Motion",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 53
+        },
+        {
+            "id": "7GdotoHy4K9Hk9XFtvVRQIVA7fB6b947",
+            "location": "pages/force_as_a_change_of_momentum.html",
+            "title": "Force as a Change of Momentum",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 54
+        },
+        {
+            "id": "mtP8bCLCPZ7YzZV0kp3FSfsPb6m0yz64",
+            "location": "pages/action_and_reaction.html",
+            "title": "Action and Reaction",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 55
+        },
+        {
+            "id": "Mydaqdvha3mp0ajz0MxjV84TYbwgjWWw",
+            "location": "pages/review_of_the_important_concept_of_force_.html",
+            "title": "Multiple Forces",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 56
+        },
+        {
+            "id": "yDIpkddqMKo9JRTd0YfB94pYXebRPIzZ",
+            "location": "pages/week_6_summary.html",
+            "title": "Week 6 Summary",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 57
+        },
+        {
+            "id": "NwGsDhpg7F4uzu38Cq24IDf49o16gGyN",
+            "location": "pages/week_7_the_electric_force.html",
+            "title": "Week 7: Electric Forces",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 58
+        },
+        {
+            "id": "giz3sdw1WDl8pZz1jUubTw6rzi0DI8yt",
+            "location": "pages/the_electron.html",
+            "title": "The Electron",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 59
+        },
+        {
+            "id": "48KzIJsMIXHMxpefbLn5mbaFYsjNkOQM",
+            "location": "pages/the_electric_field.html",
+            "title": "The Electric Field",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 60
+        },
+        {
+            "id": "bDxBzH8rxwZ1muvFrDXdZCD8yRfYXro1",
+            "location": "pages/electric_field_and_currents.html",
+            "title": "Electric Force",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 61
+        },
+        {
+            "id": "rWQIcOy8fiNLlqcd0Txcfs19jIURZXDp",
+            "location": "pages/batteries_and_the_volt.html",
+            "title": "Batteries and the Volt",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 62
+        },
+        {
+            "id": "hets4M63hq3kHrWpGSLxT60mXw0SIpIM",
+            "location": "pages/newsflash_5.html",
+            "title": "Newsflash 7",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 63
+        },
+        {
+            "id": "SOzXHnzTN770IVmYlCLA8yRzaCLwfv1i",
+            "location": "pages/electricity-in-your-home.html",
+            "title": "Electricity in your home",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 64
+        },
+        {
+            "id": "mrLpk79XQPBOLKJkCEC4aEdvvc74RvZQ",
+            "location": "pages/newsflash_5/week-7-summary.html",
+            "title": "Week 7 Summary",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 65
+        },
+        {
+            "id": "Bg5FIJgrgoJkR2IL6OCBajCk31M1vrKJ",
+            "location": "pages/week_8_electromagnetism_light.html",
+            "title": "Week 8: Electromagnetism & Light",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 66
+        },
+        {
+            "id": "blYiL7R1BU7ntj1YvFORdKsIsOCcANHr",
+            "location": "pages/ac_dc_and_magnetism_.html",
+            "title": "Alternate Current and Magnetism",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 67
+        },
+        {
+            "id": "Z3ynFpCvJiSFuYAMgPiY6vkFOTgtNb2t",
+            "location": "pages/electromagnetic_field.html",
+            "title": "Electromagnetic Field",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 68
+        },
+        {
+            "id": "DsI1pVEnrpBiUDXWiHqNUB77pKCvibT3",
+            "location": "pages/generator_transformer.html",
+            "title": "Generator & Transformer",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 69
+        },
+        {
+            "id": "ICHPWXgdGnVx5OFYlDi4ZXZQk2Er4FNj",
+            "location": "pages/light_as_a_wave.html",
+            "title": "Light as a Wave",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 70
+        },
+        {
+            "id": "rkC5FFdATAMz5F2qFLs4Wdrha2gX49I5",
+            "location": "pages/color_and_frequency.html",
+            "title": "Color and Frequency",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 71
+        },
+        {
+            "id": "G152BG0POlQTP9Tvp7an63eSVjGhgXQV",
+            "location": "pages/newsflash_6.html",
+            "title": "Newsflash 8",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 72
+        },
+        {
+            "id": "kV4AMUfAYk7UVduQ4Vs6lII8dboup74J",
+            "location": "pages/light_interference.html",
+            "title": "Light Interferes too",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 73
+        },
+        {
+            "id": "D4MU5EGx2aM9JpfEmeCZpcG0XqJ56PiZ",
+            "location": "pages/week_8_summary.html",
+            "title": "Week 8 Summary",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 74
+        },
+        {
+            "id": "H69P4yI9taCzn7QlJwaRrRPYToUnH8mn",
+            "location": "pages/week_9_light_as_a_particle.html",
+            "title": "Week 9: Light as a particle",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 75
+        },
+        {
+            "id": "Om1pRkZGfp85YgPvD9y1LYlU9eTaU5CW",
+            "location": "pages/the_crooke_s_tube.html",
+            "title": "The Crookes Tube",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 76
+        },
+        {
+            "id": "j1eqEqCl2nyhm1qkkP2noTT4TD80Asrp",
+            "location": "pages/ejecting_electrons.html",
+            "title": "Ejecting electrons",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 77
+        },
+        {
+            "id": "IvoIQTkVmRIF3vg8y7DiCYv9bHb3XayB",
+            "location": "pages/newsflash_7.html",
+            "title": "Newsflash 9",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 78
+        },
+        {
+            "id": "6cbXIzJXBH0bjLLH6V73s12rwvgt2ut0",
+            "location": "pages/the_experimental_setup_of_the_photoelectric_effect.html",
+            "title": "The Experimental Setup of the Photoelectric Effect",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 79
+        },
+        {
+            "id": "xodWVlLAoBv78d7Ge19LyXKN80w4tjyZ",
+            "location": "pages/turning_points_and_potential_energy_graph.html",
+            "title": "Turning Points and Potential Energy Graph",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 80
+        },
+        {
+            "id": "k5C9FeNHZRBgzfhxTm1cX7kWzLuLXBk1",
+            "location": "pages/photoelectric_effect.html",
+            "title": "Photoelectric Effect",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 81
+        },
+        {
+            "id": "WDA2wG6KdjnaQ8voM7quxIguy9zFtOMQ",
+            "location": "pages/actually_doing_the_experiment_.html",
+            "title": "Actually doing the experiment.",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 82
+        },
+        {
+            "id": "de1jbq38oq2kbC96bUiNr8wiHSlDkSFd",
+            "location": "pages/the_quanta.html",
+            "title": "The Quanta",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 83
+        },
+        {
+            "id": "fzKu18g3UV48rzjChSuhlMLIdO6gSk7e",
+            "location": "pages/light_is_a_particle_wave_.html",
+            "title": "Light is a \"Particle-Wave\"",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 84
+        },
+        {
+            "id": "1GslFIxHoMYKLfusv7YW2eMzTiUsuJnS",
+            "location": "pages/photo_electric_explained.html",
+            "title": "Photo-electric explained",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 85
+        },
+        {
+            "id": "4Vua2nIg68lsmpA0zacSKPnNYn5xr7kT",
+            "location": "pages/week_9_summary.html",
+            "title": "Week 9 Summary",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 86
+        },
+        {
+            "id": "Uy0MPEhhzwvCSMxFLy6BVCewu2m1CJyp",
+            "location": "pages/week_10_the_quantum_world.html",
+            "title": "Week 10: Quantum Physics I - Photons",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 87
+        },
+        {
+            "id": "MJ7KhXTr4SESIrILG9ej8Nn3AwurwY1q",
+            "location": "pages/light_as_a_wave_and_a_particle.html",
+            "title": "The Photon",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 88
+        },
+        {
+            "id": "LkEIaOGA7NsQGXBKgubw2GsdXOhezdEq",
+            "location": "pages/probability_interlude.html",
+            "title": "Probability Interlude",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 89
+        },
+        {
+            "id": "dQH89CN4v0b6x2ZGkqZDzm15HvPILamb",
+            "location": "pages/double_slits_and_photons.html",
+            "title": "Double Slits and Photons",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 90
+        },
+        {
+            "id": "239wVfk7JsAx9v2a8AwQ2sQDKOKubGDA",
+            "location": "pages/probability-amplitude.html",
+            "title": "Probability amplitude",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 91
+        },
+        {
+            "id": "uZo0D03Nxhl4STZKXawA39YZZPGfFJ4D",
+            "location": "pages/complementarity.html",
+            "title": "Complementarity",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 92
+        },
+        {
+            "id": "FMZ3CZa3aYzgLq7iV4Z6SFpk5hgGbH4r",
+            "location": "pages/a-qbit-system.html",
+            "title": "Qbit, Newsflash 10",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 93
+        },
+        {
+            "id": "igfhpUpn9pwEulyyDRkLTaClaXNh6HeN",
+            "location": "pages/photon-qbit-system.html",
+            "title": "Photon Qbit system. ",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 94
+        },
+        {
+            "id": "IxlDyGE76SxdmyTJJQUeYvBYlFrUoCXS",
+            "location": "pages/testing-bomb.html",
+            "title": "Testing Bomb",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 95
+        },
+        {
+            "id": "jSdRXxMVqQynzIcm2HR9D7Oowc9rFeGU",
+            "location": "pages/week_10_summary.html",
+            "title": "Week 10 Summary",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 96
+        },
+        {
+            "id": "VBHzW4YgpriHyMC9eERqwFMY0YAQrD2l",
+            "location": "pages/week_11_review_and_the_lhc.html",
+            "title": "Week 11: Quantum Physics 2 - Electrons",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 97
+        },
+        {
+            "id": "QlZpordLRyoyw8NdzOeTAz8i2aaWXdMv",
+            "location": "pages/everything_is_a_particle_wave.html",
+            "title": "Everything is a particle-wave",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 98
+        },
+        {
+            "id": "ANrpvFQODltr40U3uMdAaFyqIWIZBZ1n",
+            "location": "pages/the_uncertainty_principle.html",
+            "title": "The Uncertainty Principle",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 99
+        },
+        {
+            "id": "kGCpnJ0ftHokoKdxbhhrPIv8GmM42wbM",
+            "location": "pages/particle_in_a_box.html",
+            "title": "Particle in a Box",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 100
+        },
+        {
+            "id": "MY5aBtvCsPsK5BsCfGz1dzHuA53nPiiY",
+            "location": "pages/antimatter.html",
+            "title": "Antimatter",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 101
+        },
+        {
+            "id": "txDNPktxhI9x0lMt87DQaLMMNiE4HMxu",
+            "location": "pages/atoms_colliders.html",
+            "title": "Particle Colliders",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 102
+        },
+        {
+            "id": "a12xmlxbE4Yc0aoBRzFQXEXPa8RsPBRM",
+            "location": "pages/newsflash_8.html",
+            "title": "Newsflash 11",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 103
+        },
+        {
+            "id": "oQTf12P4nHe2AyW2MtLrVtBJgocELput",
+            "location": "pages/week-9-summary.html",
+            "title": "Week 11 Summary",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 104
+        },
+        {
+            "id": "TAdxPEbOg989KR0kEcfqIV8PaX2gCfDC",
+            "location": "pages/week_12_atoms_and_high_tech.html",
+            "title": "Week 12: Atoms and High-Tech",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 105
+        },
+        {
+            "id": "kdVNB0trvz6KDvTp6eFkXB8g8gTQ0DsL",
+            "location": "pages/the_hydrogen_atom.html",
+            "title": "The Hydrogen Atom",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 106
+        },
+        {
+            "id": "0pFfI7YSKjRCpVHuADydeao0zq7koxsq",
+            "location": "pages/spectroscopy.html",
+            "title": "Spectroscopy",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 107
+        },
+        {
+            "id": "hyARphAbUMXRHrE61GzCCxxiTlgk08yY",
+            "location": "pages/spectroscopy_take_2.html",
+            "title": "Spectroscopy Take 2",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 108
+        },
+        {
+            "id": "a65t7WqrY8zbKsU4MhlnEWR8HBSP57u0",
+            "location": "pages/newsflash_9.html",
+            "title": "Newsflash 12",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 109
+        },
+        {
+            "id": "FPr93wXAWg99ZPmjQIIaTrqzGMWMM95J",
+            "location": "pages/semiconductors.html",
+            "title": "Semiconductors",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 110
+        },
+        {
+            "id": "mpFkf0SbHfNEETNgyEGonLm0VmSBnwol",
+            "location": "pages/transistors.html",
+            "title": "Transistors",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 111
+        },
+        {
+            "id": "fp9cL4O2eiphsrWC74KIfX5cWFnP98Sk",
+            "location": "pages/week_12_summary.html",
+            "title": "Week 12 Summary",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 112
+        },
+        {
+            "id": "75Vvl9TZwEMXjLfOqmfna5ftx0eeKqdn",
+            "location": "pages/week_13_nuclear_physics.html",
+            "title": "Week 13: Nuclear Physics",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 113
+        },
+        {
+            "id": "SU3JuojpboRPNaQspXLavMi2aFxx7pVU",
+            "location": "pages/nuclear_force.html",
+            "title": "Nuclear Force",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 114
+        },
+        {
+            "id": "l7vwhggAFo9RLyhevzTQmYDPsJGyAsWQ",
+            "location": "pages/binding_energy.html",
+            "title": "Binding Energy",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 115
+        },
+        {
+            "id": "MSAHbQxGAhf7LbKIqlsAah8ngiWXZIpL",
+            "location": "pages/alpha_and_gamma_radiation.html",
+            "title": "Alpha and Gamma Radiation",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 116
+        },
+        {
+            "id": "XESmNIoNCzVrLKwwMvMWkbfPRJqMaMBz",
+            "location": "pages/half_life.html",
+            "title": "Half-Life",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 117
+        },
+        {
+            "id": "eD9z6dpWWBOBE5z0aq0cbsvJzNhHvnD2",
+            "location": "pages/newsflash_11.html",
+            "title": "Newsflash 13",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 118
+        },
+        {
+            "id": "COF14Hm4HG9zoBzyLT361xeSz7SmCUc1",
+            "location": "pages/uranium_233_uranium_235_and_plutonium_239.html",
+            "title": "Uranium-233, Uranium-235, and Plutonium-239",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 119
+        },
+        {
+            "id": "7bPv9o1d5MHYDiymfFgF1WL3mxw0j5Mg",
+            "location": "pages/chain_reaction.html",
+            "title": "Chain Reaction",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 120
+        },
+        {
+            "id": "ALgTYPqT7KGbedDOVBg7cCVUxgUUK35o",
+            "location": "pages/how_a_nuclear_reactor_works.html",
+            "title": "How a Nuclear Reactor Works",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 121
+        },
+        {
+            "id": "GtL8Jkvbtl5TBjMSeYNVRxPYo1VCHj24",
+            "location": "pages/week_13_summary.html",
+            "title": "Week 13 Summary",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 122
+        },
+        {
+            "id": "GpAyej5GLCApZEc1opIpa8pZa18xhta1",
+            "location": "pages/week_14_gravity_and_the_cosmos.html",
+            "title": "Week 14: Gravity and the Cosmos",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 123
+        },
+        {
+            "id": "DRhHdOuSesuUi6bPecaDKRwbrowdE4HF",
+            "location": "pages/quick_review_of_where_we_stand.html",
+            "title": "Quick Review of Where we Stand",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 124
+        },
+        {
+            "id": "tOU6SLaLnM2VIgD2cWX07zVKpmoVDZEx",
+            "location": "pages/galileo_and_free_fall.html",
+            "title": "Galileo and Free Fall",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 125
+        },
+        {
+            "id": "hl1fjFC2TvkwmYRR8uZH50XIUHsWL9KP",
+            "location": "pages/newton_s_law_of_gravity.html",
+            "title": "Newton's Law of Gravity",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 126
+        },
+        {
+            "id": "nV6B97GeMCL3Jz0bt5GSRSUIKFIIF26f",
+            "location": "pages/uniting_the_cosmos_with_the_earth.html",
+            "title": "Uniting the Cosmos with the Earth",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 127
+        },
+        {
+            "id": "Upv45A6B2f1sG38rNCRtETwlBDsqHygG",
+            "location": "pages/einstein_s_theory_of_gravity.html",
+            "title": "Einstein's Theory of Gravity",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 128
+        },
+        {
+            "id": "SpQ1okccqVmFaSgOTFlNCcMxhZab8ueF",
+            "location": "pages/newsflash_12.html",
+            "title": "Newsflash 14",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 129
+        },
+        {
+            "id": "mevHIwYzbLKsvp7wzW8kAyWG81GVBLyx",
+            "location": "pages/orbits_.html",
+            "title": "Orbits!",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 130
+        },
+        {
+            "id": "rVdchHV5iHtZWiQFzzLxnaU2ohzjKLHX",
+            "location": "pages/the_solar_system_and_beyond_.html",
+            "title": "The Solar System and Beyond!",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 131
+        },
+        {
+            "id": "hXFrgY1Y86jJUK764pneJGlSa4lvLv30",
+            "location": "pages/the_expanding_universe_.html",
+            "title": "The Expanding Universe.",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 132
+        },
+        {
+            "id": "O9M7dnAITXoVaTorLpLs0lm10eKAvryl",
+            "location": "pages/week_14_summary.html",
+            "title": "Week 14 Summary",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 133
+        },
+        {
+            "id": "BMC66GfW0QXTRXPrEZKoTErciteLInex",
+            "location": "pages/week_15_cosmology_the_dark_world.html",
+            "title": "Week 15: Its Dark Out There",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 134
+        },
+        {
+            "id": "Be7XVCZt6vU6SEZ83yOPEtfJrgzCIAjG",
+            "location": "pages/why_is_the_sky_dark_.html",
+            "title": "Why is the sky dark?",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 135
+        },
+        {
+            "id": "NkgUcvYd52jC9ydOnBwqzwuQY6ojV4jh",
+            "location": "pages/the_luminous_matter_and_the_missing_mass_.html",
+            "title": "The Luminous Matter and the Missing Mass.",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 136
+        },
+        {
+            "id": "XYUhJ70HeM8jDVAOAlxyShmbqUQMvF7N",
+            "location": "pages/gravitational_lensing.html",
+            "title": "Gravitational Lensing",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 137
+        },
+        {
+            "id": "847qTQdQMQiOcBrqX5KbcMj8HWDBOPmq",
+            "location": "pages/bullet_cluster.html",
+            "title": "Bullet Cluster",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 138
+        },
+        {
+            "id": "2vK25HYC3jWkQkwqZ7NdQkTpOh8GUXL8",
+            "location": "pages/accelerated_expansion.html",
+            "title": "Accelerated Expansion",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 139
+        },
+        {
+            "id": "Uav2lEjO3ARWnpyeXLwxo5tdUQdGJ9SN",
+            "location": "pages/newsflash_13.html",
+            "title": "Newsflash 15",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 140
+        },
+        {
+            "id": "wdluZZRbAZTovE1Pz57uoHtf8sbfMwib",
+            "location": "pages/week_15_summary.html",
+            "title": "Week 15 Summary",
+            "parent": "2LEobPvTuAWXGzLsNLwHRZDgWOjinAmn",
+            "order": 141
+        },
+        {
+            "id": "Iu3fuKduQOFGsczXFzZPA4reyemqppfY",
+            "location": "pages/README.html",
+            "title": "End of Book",
+            "parent": null,
+            "order": 1
         }
     ]
 }
